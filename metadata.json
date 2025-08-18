@@ -1,0 +1,5 @@
+{
+  "name": "Local Price Tracker",
+  "description": "A SaaS platform where users enter a product name. The system crawls Pakistani e-commerce websites like Daraz, OLX, and PriceOye, and sends instant alerts when prices drop. Perfect for budget-conscious shoppers in Pakistan.",
+  "requestFramePermissions": []
+}
